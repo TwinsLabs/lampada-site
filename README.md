@@ -1,6 +1,6 @@
 # lampada-site
 
-Site público do app Lâmpada: Bíblia em Feed (GitHub Pages).
+Site público do app Pergaminho: Bíblia em Feed (GitHub Pages).
 
 - https://twinslabs.github.io/lampada-site/
 - https://twinslabs.github.io/lampada-site/privacidade.html
